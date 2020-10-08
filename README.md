@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![image title](https://rushter.com/counter.svg)
--->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sourabhkumar45)
 
