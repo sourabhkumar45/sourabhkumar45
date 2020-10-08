@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sourabhkumar45)
+![image title](https://rushter.com/counter.svg)
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
