@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![counter](https://[YourEndpoint].m.pipedream.net)
-![Github stats](https://github-readme-stats.vercel.app/api?username=sourabhkumar45)
+![](https://komarev.com/ghpvc/?username=your-github-sourabhkumar45&label=PROFILE+VIEWS)
 
