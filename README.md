@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=your-github-sourabhkumar45&label=PROFILE+VIEWS)  
 ![Sourabh's github stats](https://github-readme-stats.vercel.app/api?username=sourabhkumar45&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkumar45&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkumar45&layout=compact)
 
 
 
