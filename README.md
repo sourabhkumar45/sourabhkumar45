@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="http://dev.to/sourabhkumar45">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico" />
 </a>
 
 
