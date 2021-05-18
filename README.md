@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Who I am?
-I am Computer Science Student.
+## About me
+- I am a Open Source enthusiast and a computer science student currently in my Junior year.
+- I am passionate about web development, DevOps and enjoy learning about new things.
+
 ![Sourabh's github stats](https://github-readme-stats.vercel.app/api?username=sourabhkumar45&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkumar45&layout=compact)
 
